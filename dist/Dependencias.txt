@@ -1,0 +1,7 @@
+Dependencias necesarias reconocimiento facila (Python 3.9)
+
+- pip install tensorflow
+- pip install opencv-python==4.7.0.68
+- pip install opencv-python-headless
+- pip install matplotlib
+- pip install mtcnn
